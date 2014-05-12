@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'BKamran';
+    src: url('BKamran.eot'); /* IE9 Compat Modes */
+    src: url('BKamran.eot?#') format('eot'), /* IE6–8 */
+    url('BKamran.ttf') format('truetype'), /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+    url('BKamran.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('BKamran.otf') format('opentype'),
+    url('BKamran.svg') format('svg');
+    font-variant: normal;
+    font-weight: normal;
+    font-style:italic;
+    
+}
+body{
+    font-family:"BKamran";
+	font-size:40%;
+	font-style:italic;;
+	font-weight: bold;
+	
+background: #b7deed; /* Old browsers */
+background: -moz-linear-gradient(top, #b7deed 0%, #71ceef 50%, #21b4e2 51%, #b7deed 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b7deed), color-stop(50%,#71ceef), color-stop(51%,#21b4e2), color-stop(100%,#b7deed)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #b7deed 0%,#71ceef 50%,#21b4e2 51%,#b7deed 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #b7deed 0%,#71ceef 50%,#21b4e2 51%,#b7deed 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #b7deed 0%,#71ceef 50%,#21b4e2 51%,#b7deed 100%); /* IE10+ */
+background: linear-gradient(to bottom, #b7deed 0%,#71ceef 50%,#21b4e2 51%,#b7deed 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#b7deed',GradientType=0 ); /* IE6	
+}
+.input{
+	border-width:large;
+	border-style:ridge;
+	border-color:#74AFAD;
+	border-radius:50px;
+	color:rgb(119,119,119)
+}
+#button{
+	color:red;}
+#button:hover{
+color:red;}
+.sign_up{
+	border-width:large;
+	border-style:ridge;
+	border-color:#74AFAD;
+	border-radius:60px;
+}
+#link:hover{
+	color:red;
+
+}
+
