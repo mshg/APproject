@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+@font-face {
+    font-family: 'BKamran';
+    src: url('BKamran.eot'); /* IE9 Compat Modes */
+    src: url('BKamran.eot?#') format('eot'), /* IE6–8 */
+    url('BKamran.ttf') format('truetype'), /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+    url('BKamran.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('BKamran.otf') format('opentype'),
+    url('BKamran.svg') format('svg');
+    font-variant: normal;
+    font-weight: normal;
+    font-style:italic;}
+body{
+
+}
+.picture{
+	float:right;
+	text-align:center;
+	border:0.5em solid gray;
+	border-radius:1em;}
+.data{
+	float:right;
+	width:60%;
+	
+	
+	text-align:center;
+	}
+.comments{
+	background-color:#960;}
+
