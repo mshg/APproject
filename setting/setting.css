@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background-color:rgb(241,242,242)}
+div.information{
+	margin:auto;
+
+	text-align:center;
+	}
+div.basic_information{
+	margin:10%;
+	background-color:rgb(255,255,255);
+	}
+div.change_password{
+	margin-left:10%;
+	margin-right:10%;
+	margin-bottom:10%;
+	background-color:rgb(255,255,255);}
+div.name_{
+	}
+
